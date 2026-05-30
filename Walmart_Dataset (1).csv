@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,State,City,Category,Product_Name,Sales,Profit
+1,7/5/2023,Washington,Tacoma,Technology,Printer,11477.77,-1145.18
+2,1/25/2023,New York,New York City,Furniture,Table,10113.39,978.77
+3,3/4/2021,Washington,Spokane,Sports Equipment,Dumbbells,13071.89,1834.44
+4,7/23/2024,Florida,Orlando,Groceries,Vegetables,8344.26,1716.84
+5,8/30/2021,California,Los Angeles,Clothing,Shoes,1127.18,361.99
+6,11/25/2019,Washington,Tacoma,Electronics,Headphones,13378.29,-695.35
+7,1/7/2022,New York,Buffalo,Sports Equipment,Dumbbells,2488.5,906.28
+8,10/2/2021,Texas,Austin,Electronics,Speaker,325.17,28.06
+9,10/28/2022,Florida,Tampa,Furniture,Chair,1986.74,-280.46
+10,10/26/2018,Texas,Dallas,Home Decor,Clock,9242.77,1616.81
+11,12/27/2021,New York,Rochester,Home Decor,Curtains,354.41,-51.65
+12,9/1/2021,Florida,Tampa,Technology,Monitor,5285.24,-356.77
+13,6/24/2023,Nevada,Las Vegas,Electronics,Speaker,12175.06,1803.7
+14,2/20/2024,Texas,Austin,Home Decor,Wall Art,2863.81,1133.97
+15,3/23/2019,California,San Diego,Sports Equipment,Cricket Bat,2369.31,498.74
+16,8/29/2024,New York,Rochester,Technology,Tablet,9173.19,1948.35
+17,9/20/2021,Florida,Miami,Furniture,Desk,901.1,-171.42
+18,9/7/2020,California,San Diego,Clothing,Shoes,159.06,8.78
+19,12/22/2019,Illinois,Naperville,Sports Equipment,Football,1773.6,-136.5
+20,5/13/2021,Nevada,Reno,Technology,Tablet,9111.64,-1609.83
+21,3/17/2023,New York,Rochester,Electronics,Speaker,8769.39,2151.75
+22,1/8/2024,Nevada,Reno,Technology,Printer,7230.56,-314.24
+23,2/28/2018,Florida,Tampa,Office Supplies,Stapler,2222.38,284.89
+24,1/24/2019,Texas,Austin,Technology,Monitor,11654.17,1798.12
+25,6/18/2020,California,San Diego,Groceries,Rice,3669.84,-450.68
+26,9/4/2025,Illinois,Chicago,Clothing,Jacket,13068.67,2587.78
+27,6/26/2025,New York,Rochester,Clothing,Sweater,5894.6,889.58
+28,10/24/2022,Texas,Austin,Home Decor,Wall Art,10865.66,311.86
+29,2/5/2018,Nevada,Reno,Clothing,Jeans,2942.13,475.96
+30,10/14/2025,Washington,Seattle,Sports Equipment,Cricket Bat,13992.08,-2474.54
+31,8/15/2020,Texas,Dallas,Sports Equipment,Tennis Racket,13107.27,-2039.79
+32,12/11/2021,New York,Rochester,Office Supplies,Paper,5462.68,1859.59
+33,3/22/2025,Florida,Tampa,Home Decor,Wall Art,4228.7,118.2
+34,9/14/2025,California,Los Angeles,Electronics,Speaker,12888.06,3236.3
+35,4/4/2019,Texas,Dallas,Groceries,Rice,2346.53,780.83
+36,9/6/2020,Texas,Houston,Technology,Laptop,8849.62,-1461.95
+37,8/19/2020,Florida,Orlando,Technology,Phone,3686.8,-351.77
+38,4/28/2025,Florida,Orlando,Technology,Phone,7365.39,427.36
+39,11/3/2025,California,San Diego,Sports Equipment,Cricket Bat,13542.59,-1873.5
+40,3/2/2018,Nevada,Las Vegas,Electronics,Headphones,12089.4,2454.51
+41,5/26/2018,California,Los Angeles,Furniture,Desk,1074.03,-11.15
+42,8/22/2024,California,San Francisco,Clothing,Sweater,3485.2,1099.66
+43,5/7/2022,Texas,Dallas,Office Supplies,Pen,14724.38,5071.74
+44,10/13/2019,Nevada,Las Vegas,Office Supplies,Paper,4689.51,297.4
+45,2/24/2024,Florida,Tampa,Home Decor,Curtains,13666.81,5053.5
+46,8/13/2024,Nevada,Reno,Clothing,Jacket,11179.27,3042.8
+47,10/28/2024,Texas,Austin,Technology,Monitor,3905.64,-111.65
+48,12/22/2023,California,Los Angeles,Groceries,Bread,5362.88,-50.55
+49,4/5/2024,Texas,Houston,Furniture,Table,5152.23,715.26
+50,8/7/2023,Nevada,Reno,Furniture,Desk,11894.06,-995.36
+51,3/10/2021,Nevada,Las Vegas,Groceries,Vegetables,2589.6,367.94
+52,10/25/2021,New York,Buffalo,Furniture,Table,2121.08,658.23
+53,9/9/2018,Florida,Orlando,Electronics,Camera,14711.11,2250.37
+54,7/3/2025,Nevada,Reno,Groceries,Vegetables,14727.56,-3535.64
+55,7/28/2022,Illinois,Chicago,Furniture,Table,13652.91,-1910.95
+56,12/31/2024,Texas,Austin,Electronics,Headphones,12729.57,-1260.19
+57,3/27/2021,California,San Diego,Furniture,Cabinet,10452.12,2665.38
+58,7/20/2020,Washington,Spokane,Office Supplies,Paper,7966.4,443.65
+59,10/9/2021,Illinois,Springfield,Furniture,Sofa,1337.93,-141.76
+60,12/30/2022,Nevada,Las Vegas,Clothing,Jacket,7822.84,-1815.08
+61,8/16/2023,Florida,Miami,Furniture,Chair,878.68,84.88
+62,5/13/2023,Texas,Dallas,Office Supplies,Stapler,7353.48,2387.06
+63,5/8/2023,Texas,Dallas,Sports Equipment,Cricket Bat,1310.43,510.03
+64,9/18/2019,New York,New York City,Sports Equipment,Football,2996.13,774.16
+65,9/11/2025,California,San Francisco,Technology,Laptop,4434.54,1116.32
+66,11/23/2018,Florida,Orlando,Furniture,Sofa,1684.28,422.84
+67,10/20/2023,Illinois,Springfield,Groceries,Bread,9178.85,2296.63
+68,3/7/2022,California,Los Angeles,Technology,Monitor,5695.51,1771.03
+69,5/29/2023,New York,New York City,Clothing,Jacket,3151.36,-167.36
+70,5/4/2019,New York,Rochester,Office Supplies,Stapler,10665.01,900.47
+71,12/28/2025,Illinois,Naperville,Technology,Phone,6440.93,587.07
+72,12/13/2018,Nevada,Reno,Home Decor,Carpet,12709.71,1593.58
+73,8/16/2022,Washington,Spokane,Clothing,Sweater,1289.26,236.13
+74,9/29/2024,Nevada,Las Vegas,Furniture,Chair,8882.71,1443.84
+75,1/28/2024,Illinois,Springfield,Office Supplies,Pen,346.89,30.96
+76,5/31/2024,California,San Diego,Clothing,Shoes,4359.68,-801.43
+77,11/9/2021,New York,New York City,Furniture,Cabinet,12273.61,4427.79
+78,8/28/2021,New York,New York City,Technology,Tablet,10754.31,-322.24
+79,6/26/2022,Illinois,Chicago,Clothing,Shoes,1585.33,40.97
+80,6/25/2024,Washington,Tacoma,Clothing,Jacket,3862.44,1367.87
+81,6/12/2021,Florida,Orlando,Furniture,Sofa,6236.62,1409.38
+82,1/29/2018,Florida,Miami,Electronics,Headphones,7368.49,1000.5
+83,12/27/2023,Texas,Dallas,Technology,Printer,4467.89,772.76
+84,8/22/2025,Texas,Austin,Office Supplies,Binder,5672.09,2034.91
+85,5/7/2025,Illinois,Naperville,Clothing,Shoes,11888.85,-1517.08
+86,12/24/2019,Washington,Spokane,Sports Equipment,Cricket Bat,14042.85,954.17
+87,7/23/2018,Florida,Miami,Technology,Printer,14950.28,2905.81
+88,7/6/2019,Washington,Seattle,Sports Equipment,Football,2400.96,182.37
+89,9/22/2018,Texas,Houston,Technology,Phone,1043.24,-241.75
+90,1/30/2019,Texas,Austin,Office Supplies,Notebook,14344.59,2308.23
+91,3/13/2022,California,San Francisco,Furniture,Chair,10200.92,-2416.59
+92,10/7/2018,Washington,Tacoma,Groceries,Eggs,4531.23,-158.21
+93,12/29/2021,Florida,Tampa,Furniture,Desk,3987.45,-163.45
+94,10/19/2022,Florida,Miami,Technology,Printer,10289.13,2274.87
+95,9/25/2020,Washington,Tacoma,Clothing,Jeans,3006.81,-358.52
+96,7/15/2023,Texas,Austin,Home Decor,Wall Art,612.17,163.8
+97,12/5/2022,Nevada,Reno,Office Supplies,Stapler,3142.51,710.11
+98,11/13/2018,Washington,Seattle,Office Supplies,Stapler,5913.82,1956.57
+99,5/26/2023,Florida,Orlando,Home Decor,Carpet,1816.51,-327.42
+100,6/20/2024,New York,Rochester,Furniture,Chair,1272.58,-0.93
+101,4/16/2025,New York,Buffalo,Clothing,Jeans,11591.81,-296.15
+102,3/8/2025,Washington,Seattle,Office Supplies,Paper,5644.11,572.49
+103,6/7/2019,Illinois,Springfield,Clothing,Shoes,13709.95,-1324.89
+104,12/21/2021,Washington,Spokane,Home Decor,Wall Art,10526.22,-1535.75
+105,5/6/2018,California,Los Angeles,Office Supplies,Pen,12677.04,-36.6
+106,11/12/2019,New York,New York City,Technology,Monitor,7898,1364.6
+107,4/9/2025,Texas,Houston,Office Supplies,Binder,12185.92,1305.2
+108,3/2/2023,Nevada,Reno,Office Supplies,Stapler,181.97,-9.88
+109,2/11/2021,Illinois,Naperville,Electronics,Speaker,8336.22,-718.63
+110,1/7/2022,Washington,Seattle,Office Supplies,Binder,7478.75,2459.34
+111,8/11/2018,Texas,Dallas,Sports Equipment,Cricket Bat,7337.56,1376.54
+112,1/13/2022,Texas,Dallas,Furniture,Table,9984.03,1647.09
+113,2/15/2020,New York,Rochester,Home Decor,Lamp,6302.85,1085.15
+114,9/18/2023,Nevada,Reno,Sports Equipment,Football,9243.44,-2196.1
+115,8/4/2023,Nevada,Reno,Groceries,Vegetables,1820.62,-18.77
+116,9/30/2022,California,Los Angeles,Groceries,Vegetables,5477.61,980.1
+117,9/28/2025,New York,Buffalo,Clothing,Jeans,2611.91,-466.95
+118,5/28/2019,Illinois,Naperville,Groceries,Milk,11026.35,-1418.36
+119,6/6/2021,Nevada,Reno,Groceries,Eggs,14802.35,4238.5
+120,3/8/2018,Texas,Austin,Home Decor,Wall Art,9031.02,739.44
+121,12/3/2020,Illinois,Chicago,Office Supplies,Pen,1698.62,-381.69
+122,11/2/2019,Illinois,Springfield,Furniture,Desk,9996.03,-847.05
+123,7/23/2024,Texas,Austin,Sports Equipment,Tennis Racket,3882.52,-249.35
+124,9/4/2025,Nevada,Las Vegas,Technology,Laptop,1674.57,-90.53
+125,3/16/2020,Washington,Seattle,Technology,Laptop,12610.06,2816.83
+126,9/17/2022,California,San Francisco,Home Decor,Lamp,7157.26,-1680.19
+127,11/22/2021,New York,New York City,Electronics,Headphones,13563.23,-2836.24
+128,12/29/2019,New York,Rochester,Office Supplies,Notebook,13602.63,3659.55
+129,7/8/2025,Florida,Orlando,Electronics,Headphones,12476.93,-1011.36
+130,12/19/2018,Florida,Miami,Furniture,Cabinet,11193.08,3193.6
+131,7/8/2021,New York,New York City,Furniture,Table,12519.2,4476.99
+132,8/20/2020,Illinois,Naperville,Furniture,Cabinet,8197.18,1571.65
+133,11/17/2025,Washington,Spokane,Electronics,Smartwatch,10758.28,-255.6
+134,11/8/2024,Nevada,Las Vegas,Groceries,Milk,1688.57,51.99
+135,8/6/2025,Florida,Miami,Groceries,Eggs,10292.76,-555.34
+136,3/20/2019,Washington,Seattle,Groceries,Milk,9104.07,1804.88
+137,3/10/2024,Nevada,Las Vegas,Groceries,Eggs,9697.71,-2216.08
+138,7/11/2025,Nevada,Reno,Technology,Printer,7608.94,1218.27
+139,5/27/2023,California,San Diego,Electronics,Speaker,13741.42,1059.89
+140,3/22/2019,California,San Francisco,Home Decor,Lamp,1634.73,-205.28
+141,10/27/2022,Washington,Seattle,Office Supplies,Notebook,9311.7,1610.04
+142,4/29/2023,Nevada,Reno,Electronics,TV,13851.66,3830.32
+143,3/16/2018,Texas,Austin,Office Supplies,Binder,3804.26,814.68
+144,10/24/2025,New York,Rochester,Technology,Laptop,4786.4,-190.75
+145,8/16/2019,Washington,Spokane,Technology,Monitor,10738.35,-2656.25
+146,7/11/2024,New York,Buffalo,Clothing,Jeans,254.15,-25.96
+147,10/19/2018,Florida,Miami,Groceries,Milk,6658.33,2655.77
+148,6/2/2020,California,Los Angeles,Technology,Tablet,3739.55,-289.04
+149,2/18/2020,Texas,Austin,Office Supplies,Pen,3771.92,1250.88
+150,9/29/2022,New York,Rochester,Electronics,Speaker,11849.47,861.94
+151,1/15/2020,Nevada,Reno,Electronics,Camera,1330.51,-4.14
+152,1/6/2025,Illinois,Naperville,Furniture,Cabinet,8768.06,-85.44
+153,12/21/2019,Illinois,Springfield,Office Supplies,Notebook,8569.47,-1963.51
+154,10/2/2019,Nevada,Reno,Home Decor,Carpet,3275.24,-453.76
+155,10/27/2019,Illinois,Springfield,Electronics,Smartwatch,9579.58,-1232.81
+156,11/3/2018,Washington,Tacoma,Groceries,Milk,7158.72,-1069.62
+157,11/23/2019,Washington,Spokane,Clothing,Jeans,11569.45,4410.4
+158,2/27/2023,California,San Francisco,Groceries,Vegetables,2672.38,966.29
+159,1/17/2020,Illinois,Chicago,Office Supplies,Notebook,4089.6,-758.3
+160,3/2/2025,Nevada,Las Vegas,Home Decor,Curtains,8432.18,38.75
+161,2/11/2025,Nevada,Reno,Clothing,Jacket,6603.15,-1217.53
+162,9/12/2018,Texas,Dallas,Furniture,Table,4946.8,-593.61
+163,9/25/2019,New York,Rochester,Home Decor,Curtains,11508.39,872.13
+164,1/27/2024,New York,Rochester,Home Decor,Clock,9724.59,887.04
+165,1/4/2019,Washington,Spokane,Office Supplies,Stapler,10633.83,-2369.71
+166,2/18/2024,Washington,Spokane,Sports Equipment,Yoga Mat,3978.9,1004.86
+167,7/21/2022,Illinois,Naperville,Technology,Tablet,3974.24,650.71
+168,10/27/2018,Illinois,Springfield,Clothing,Jacket,8725.01,-683.59
+169,6/1/2018,Florida,Miami,Sports Equipment,Tennis Racket,11040.2,269.81
+170,1/8/2024,Illinois,Springfield,Office Supplies,Stapler,8741.53,-958.68
+171,7/8/2025,California,San Francisco,Groceries,Milk,11756.42,4693.3
+172,4/19/2018,Florida,Tampa,Clothing,Sweater,2252.96,630.74
+173,7/11/2023,New York,Buffalo,Electronics,Speaker,13808.81,-2674.87
+174,3/12/2021,Washington,Seattle,Electronics,TV,3087.67,6.82
+175,12/6/2025,Florida,Orlando,Clothing,Shoes,3324.75,-74.2
+176,4/22/2022,Illinois,Chicago,Electronics,Speaker,8543.36,3089.14
+177,9/15/2021,Texas,Austin,Furniture,Chair,13024.81,2335.12
+178,7/23/2019,Nevada,Las Vegas,Electronics,Headphones,6616.6,-1048.34
+179,2/8/2024,Illinois,Naperville,Furniture,Table,4346.26,243.22
+180,7/31/2023,Washington,Tacoma,Office Supplies,Pen,11922.88,4422.74
+181,3/3/2024,Illinois,Naperville,Home Decor,Clock,4375.01,143.11
+182,10/22/2020,Texas,Austin,Sports Equipment,Dumbbells,13784.44,-449.96
+183,9/29/2023,Nevada,Las Vegas,Furniture,Sofa,9310.75,172.49
+184,11/26/2022,Florida,Orlando,Technology,Laptop,6612.17,-972.27
+185,7/6/2021,Illinois,Naperville,Groceries,Bread,2057.69,192.78
+186,5/22/2022,Nevada,Las Vegas,Sports Equipment,Football,8596.72,690.68
+187,10/9/2022,California,San Francisco,Technology,Phone,14579.13,3910.07
+188,10/17/2025,Texas,Dallas,Clothing,T-Shirt,7758.02,-1267.59
+189,12/20/2024,California,Los Angeles,Furniture,Chair,8747.08,1619.34
+190,6/9/2024,Washington,Tacoma,Sports Equipment,Yoga Mat,14890.44,-2967.32
+191,3/24/2019,New York,New York City,Sports Equipment,Tennis Racket,5830.14,2038.15
+192,9/10/2025,California,Los Angeles,Technology,Monitor,10440.51,3440.78
+193,6/18/2025,Florida,Tampa,Technology,Phone,11022.72,-2476.24
+194,11/10/2021,Illinois,Springfield,Office Supplies,Paper,5695.39,1620.86
+195,9/17/2024,Washington,Tacoma,Electronics,TV,516.22,-99.2
+196,8/25/2018,Washington,Spokane,Groceries,Rice,2890.73,-384.28
+197,11/1/2024,Illinois,Chicago,Electronics,Headphones,343.88,100.14
+198,1/8/2019,Washington,Spokane,Clothing,Shoes,3256.62,138.8
+199,10/13/2021,Washington,Tacoma,Clothing,Jacket,10025.4,3677.05
+200,9/16/2022,New York,Buffalo,Groceries,Milk,5125,-415.53
+201,10/10/2022,Washington,Spokane,Technology,Tablet,14811.05,-373.48
+202,4/17/2023,Illinois,Chicago,Office Supplies,Pen,2091.25,428.79
+203,11/12/2023,Illinois,Chicago,Home Decor,Lamp,5130.56,1658.77
+204,9/28/2022,Texas,Houston,Furniture,Sofa,5098.81,-1195.25
+205,10/13/2021,Nevada,Reno,Office Supplies,Paper,10986.26,-227.3
+206,6/28/2019,California,San Francisco,Office Supplies,Binder,7748.35,1663.24
+207,7/4/2022,Washington,Tacoma,Electronics,Speaker,4581.5,258.68
+208,1/1/2025,Washington,Seattle,Furniture,Desk,2636.8,916.31
+209,8/10/2023,Texas,Austin,Sports Equipment,Tennis Racket,9078.73,438.15
+210,5/2/2019,Nevada,Reno,Electronics,Speaker,10087.82,2752.76
+211,12/27/2021,Florida,Miami,Groceries,Bread,6763.77,2475.81
+212,3/27/2023,Nevada,Reno,Home Decor,Wall Art,939.86,19.58
+213,6/10/2019,Florida,Tampa,Clothing,Jeans,2517.51,-369.75
+214,10/14/2021,Illinois,Naperville,Sports Equipment,Dumbbells,11289.28,547.44
+215,6/21/2021,Texas,Austin,Groceries,Vegetables,13804.01,3905.33
+216,3/15/2019,California,San Diego,Clothing,Sweater,14823.38,-2398.55
+217,1/15/2023,Illinois,Chicago,Furniture,Table,11241.34,2229.95
+218,2/26/2019,Illinois,Chicago,Groceries,Eggs,2496.16,563.23
+219,11/14/2023,Illinois,Springfield,Sports Equipment,Tennis Racket,10891.27,575.99
+220,8/14/2018,Nevada,Reno,Office Supplies,Pen,10821.15,-381.91
+221,4/8/2021,New York,Rochester,Clothing,Jacket,10628.93,1024.13
+222,12/23/2021,New York,Rochester,Technology,Printer,5537.42,1279.04
+223,10/5/2018,Nevada,Reno,Office Supplies,Paper,5383.76,-715.43
+224,11/28/2020,Florida,Orlando,Home Decor,Lamp,12622.8,3555.51
+225,12/7/2018,California,San Diego,Furniture,Chair,5682.13,-644.18
+226,1/9/2019,Washington,Spokane,Office Supplies,Binder,4654.68,-63.67
+227,12/26/2019,Florida,Miami,Office Supplies,Notebook,2017.4,242.64
+228,3/7/2021,Illinois,Chicago,Office Supplies,Binder,8729.14,811.63
+229,1/13/2019,New York,Rochester,Home Decor,Wall Art,11861.24,-2284.44
+230,3/3/2021,Illinois,Naperville,Technology,Monitor,11597.21,820.27
+231,12/13/2022,Texas,Austin,Electronics,TV,1928.82,-19.99
+232,5/18/2019,Illinois,Springfield,Sports Equipment,Yoga Mat,3434.64,1185.77
+233,4/23/2023,Florida,Tampa,Clothing,T-Shirt,8484.51,1513.08
+234,7/15/2021,Washington,Tacoma,Clothing,Jeans,4308.8,26.15
+235,8/1/2021,Illinois,Springfield,Technology,Tablet,2866.07,388.43
+236,8/2/2023,New York,New York City,Office Supplies,Pen,14767.88,-3168.14
+237,6/27/2020,Washington,Seattle,Home Decor,Curtains,7029.2,1656.12
+238,10/7/2021,Illinois,Springfield,Technology,Monitor,2172.77,-341.17
+239,12/26/2019,Nevada,Las Vegas,Office Supplies,Notebook,1501.92,-29.49
+240,12/16/2025,Texas,Houston,Home Decor,Curtains,787.94,-61.03
+241,4/29/2024,Texas,Austin,Furniture,Desk,13936.96,1933.04
+242,10/17/2022,Nevada,Las Vegas,Furniture,Cabinet,9365.74,1864.83
+243,8/20/2019,Florida,Orlando,Groceries,Eggs,4773.71,-169.47
+244,4/15/2023,Illinois,Springfield,Groceries,Eggs,10882.48,-2376.25
+245,8/3/2024,Washington,Seattle,Technology,Monitor,5493.78,-1372.07
+246,6/28/2018,Florida,Orlando,Technology,Laptop,7403.84,598.71
+247,8/31/2024,Florida,Tampa,Sports Equipment,Tennis Racket,13334.36,3740.22
+248,8/21/2022,Washington,Spokane,Sports Equipment,Yoga Mat,2104.88,-185.19
+249,8/26/2020,Florida,Orlando,Clothing,Jeans,461.69,-87.69
+250,7/14/2024,Florida,Miami,Sports Equipment,Dumbbells,8700.15,2869.71
+251,8/25/2022,New York,Rochester,Sports Equipment,Yoga Mat,10455.35,1948.92
+252,1/21/2018,Nevada,Las Vegas,Technology,Laptop,6358.08,2395.35
+253,9/22/2020,California,San Diego,Office Supplies,Binder,2916.71,-300.34
+254,3/15/2019,Texas,Austin,Office Supplies,Pen,6813.26,-1133.63
+255,10/13/2023,California,Los Angeles,Electronics,Camera,12779.43,884.41
+256,7/12/2020,Illinois,Chicago,Technology,Printer,6841.45,586.26
+257,3/25/2025,Nevada,Reno,Groceries,Eggs,6725.15,-1578.84
+258,2/2/2021,Florida,Miami,Technology,Phone,2928.58,386.46
+259,7/2/2023,New York,Rochester,Furniture,Desk,12597.76,-1662
+260,3/29/2025,Illinois,Springfield,Sports Equipment,Dumbbells,9024.41,1032.48
+261,4/10/2023,California,Los Angeles,Home Decor,Wall Art,6702.3,1091.78
+262,9/12/2021,Nevada,Reno,Electronics,Headphones,10753.64,1567.19
+263,6/1/2019,Florida,Orlando,Home Decor,Wall Art,1306.94,130.62
+264,9/14/2019,Illinois,Chicago,Clothing,Sweater,3055.5,246.77
+265,11/5/2024,Texas,Austin,Clothing,Sweater,3708.62,937.71
+266,2/26/2021,Illinois,Chicago,Office Supplies,Notebook,6703.55,1088.35
+267,1/9/2024,California,Los Angeles,Furniture,Cabinet,1940.81,455.29
+268,7/25/2025,Illinois,Naperville,Sports Equipment,Cricket Bat,13385.49,3715.52
+269,11/4/2019,Texas,Austin,Furniture,Table,5827.23,756.52
+270,6/25/2018,Nevada,Reno,Technology,Laptop,3088.63,1068.21
+271,7/27/2023,Illinois,Chicago,Office Supplies,Stapler,6773.32,504.04
+272,4/9/2021,Illinois,Chicago,Electronics,Speaker,13302,-1301.95
+273,11/11/2018,Illinois,Springfield,Groceries,Milk,6538.63,2444.02
+274,11/12/2020,Texas,Austin,Office Supplies,Pen,1923.94,-102.17
+275,2/2/2021,Illinois,Naperville,Clothing,Sweater,9713.38,3337.01
+276,9/16/2020,Washington,Seattle,Furniture,Sofa,6795.5,-491.07
+277,6/28/2019,Florida,Miami,Office Supplies,Pen,6635.75,1094.78
+278,3/24/2018,Washington,Seattle,Office Supplies,Pen,1502.43,84.43
+279,4/30/2022,Illinois,Chicago,Home Decor,Wall Art,14865.57,1779.01
+280,4/23/2025,California,San Diego,Sports Equipment,Tennis Racket,3951.04,1534.62
+281,8/21/2018,California,San Diego,Clothing,Jacket,1692.13,-135.31
+282,5/18/2019,Nevada,Reno,Home Decor,Clock,14108.94,838.81
+283,10/13/2018,New York,New York City,Furniture,Sofa,3446.17,1053.15
+284,3/19/2024,Florida,Miami,Sports Equipment,Dumbbells,11173.75,-758.46
+285,7/22/2023,Texas,Austin,Furniture,Cabinet,5941.15,80.15
+286,10/26/2018,Illinois,Springfield,Furniture,Cabinet,5506.47,-735.5
+287,12/13/2025,Florida,Orlando,Technology,Phone,4346.84,-651.11
+288,7/10/2019,New York,Buffalo,Groceries,Eggs,2863.72,1068.63
+289,3/17/2025,Florida,Miami,Home Decor,Wall Art,270,-57.08
+290,11/9/2021,New York,Buffalo,Technology,Printer,11799.56,3366.84
+291,7/13/2024,Nevada,Las Vegas,Home Decor,Wall Art,6334.36,-424.24
+292,11/21/2020,Texas,Austin,Office Supplies,Pen,10577.61,1639.48
+293,12/18/2023,New York,Rochester,Groceries,Bread,12567.69,3677.88
+294,5/2/2025,Washington,Tacoma,Home Decor,Carpet,3480.58,1296.44
+295,4/11/2024,New York,New York City,Home Decor,Clock,10992.55,637.32
+296,2/8/2021,Texas,Dallas,Office Supplies,Pen,14218.84,1393.59
+297,6/22/2019,Illinois,Naperville,Electronics,TV,11100.25,-448.65
+298,6/5/2021,Florida,Miami,Home Decor,Lamp,14581.72,3505.71
+299,6/6/2018,Florida,Miami,Home Decor,Wall Art,2877.2,676.36
+300,12/4/2020,Florida,Miami,Electronics,Camera,14047.49,-2891.87
+301,11/13/2019,Illinois,Chicago,Furniture,Cabinet,12561.27,3952.28
+302,8/29/2023,Illinois,Naperville,Furniture,Chair,12269.77,3537.47
+303,4/11/2024,California,San Francisco,Technology,Printer,1214.42,107.9
+304,3/19/2020,Washington,Tacoma,Clothing,Jacket,2162.84,800.44
+305,7/11/2020,California,Los Angeles,Sports Equipment,Yoga Mat,4265.93,-684.65
+306,3/16/2020,Texas,Dallas,Groceries,Vegetables,14243.83,5388.3
+307,5/27/2025,Florida,Tampa,Sports Equipment,Yoga Mat,14128.84,402.77
+308,1/27/2025,Texas,Dallas,Groceries,Bread,9818.39,-1659.85
+309,2/27/2021,California,San Diego,Furniture,Cabinet,667.54,266.87
+310,7/11/2019,Texas,Dallas,Clothing,Jacket,2010.12,155.35
+311,8/13/2023,California,San Diego,Electronics,Headphones,9303.38,951.71
+312,6/2/2022,Illinois,Naperville,Groceries,Vegetables,5008.8,1990.73
+313,5/18/2025,Nevada,Las Vegas,Clothing,Sweater,672.41,179.44
+314,4/4/2020,Florida,Miami,Electronics,Speaker,11235.61,888.44
+315,7/30/2022,New York,New York City,Home Decor,Lamp,9815.99,3048.1
+316,11/14/2024,Texas,Austin,Sports Equipment,Tennis Racket,303.12,-52.29
+317,2/14/2022,Washington,Seattle,Office Supplies,Paper,10608.05,2889.89
+318,1/1/2019,Washington,Seattle,Groceries,Milk,6185.96,2186.3
+319,9/6/2023,Nevada,Las Vegas,Sports Equipment,Yoga Mat,9955.5,3088.62
+320,8/11/2023,New York,New York City,Sports Equipment,Yoga Mat,5155.39,-1083.71
+321,2/22/2018,Illinois,Chicago,Clothing,Sweater,3335.89,-71.67
+322,12/1/2022,Nevada,Reno,Electronics,TV,4016.88,-330.59
+323,2/7/2022,Florida,Orlando,Technology,Printer,5127.17,971.09
+324,8/4/2025,Illinois,Naperville,Electronics,Headphones,12299.43,4782.03
+325,1/7/2024,New York,New York City,Home Decor,Lamp,9190.81,3614.81
+326,6/24/2023,Illinois,Springfield,Clothing,Sweater,9595.89,3729.94
+327,8/24/2019,Texas,Houston,Sports Equipment,Yoga Mat,6822.66,425.93
+328,5/25/2020,Washington,Seattle,Home Decor,Curtains,337.08,-6.28
+329,11/23/2019,Nevada,Reno,Home Decor,Carpet,9780.23,-1098.36
+330,3/20/2021,California,San Francisco,Office Supplies,Binder,9058.59,-1693.12
+331,4/19/2020,New York,New York City,Sports Equipment,Football,1406.68,520.18
+332,6/23/2018,Texas,Houston,Sports Equipment,Tennis Racket,12039.68,3654.19
+333,3/5/2022,Washington,Seattle,Groceries,Milk,1021.44,-253.96
+334,7/18/2022,Washington,Tacoma,Furniture,Table,12483.11,-1680.58
+335,9/13/2018,Florida,Tampa,Furniture,Desk,12729.98,1559.58
+336,4/13/2020,Nevada,Las Vegas,Groceries,Bread,1858.5,-365.51
+337,9/27/2024,Illinois,Chicago,Home Decor,Wall Art,5760.3,373.64
+338,5/4/2018,Illinois,Naperville,Office Supplies,Binder,13872.01,902.43
+339,7/7/2019,California,San Diego,Technology,Monitor,3981.1,-987.73
+340,8/16/2024,California,San Francisco,Clothing,Jeans,9305.16,3089.16
+341,6/1/2022,Florida,Miami,Technology,Tablet,10363.17,-1626.22
+342,4/17/2023,Nevada,Reno,Sports Equipment,Yoga Mat,6933.37,285.8
+343,9/29/2018,New York,Rochester,Technology,Printer,13942.12,-821
+344,5/13/2022,Washington,Spokane,Office Supplies,Binder,961.35,-186.76
+345,10/2/2023,Nevada,Reno,Office Supplies,Pen,2791.36,-458.72
+346,2/1/2019,Washington,Seattle,Technology,Monitor,13106.13,2576.37
+347,6/15/2025,Florida,Miami,Groceries,Milk,8639.56,-91.75
+348,10/27/2025,Washington,Tacoma,Electronics,Speaker,8770.31,2945.75
+349,5/4/2021,New York,Rochester,Clothing,Jeans,11584.67,1888.81
+350,8/17/2024,Illinois,Naperville,Sports Equipment,Dumbbells,2635.44,-357.83
+351,11/29/2025,Illinois,Naperville,Home Decor,Clock,151.24,8.32
+352,1/11/2024,Washington,Seattle,Technology,Phone,13670.59,4293.64
+353,9/25/2024,Washington,Seattle,Office Supplies,Pen,2431.54,117.31
+354,12/5/2018,California,San Diego,Sports Equipment,Yoga Mat,2275,290.96
+355,5/13/2021,Nevada,Reno,Electronics,Speaker,8405.63,353.65
+356,7/20/2023,Washington,Spokane,Office Supplies,Paper,4101.14,362.79
+357,3/19/2025,Texas,Houston,Technology,Tablet,11793.97,1669.17
+358,2/27/2022,California,Los Angeles,Technology,Printer,3579.59,-201.67
+359,5/26/2018,New York,Rochester,Electronics,Camera,6664.39,811.64
+360,11/30/2025,Texas,Houston,Technology,Tablet,13582.84,-39.57
+361,7/31/2022,Illinois,Springfield,Electronics,Camera,9201.11,-776.54
+362,4/19/2022,New York,Buffalo,Furniture,Chair,6344.96,-345.72
+363,5/23/2025,Florida,Orlando,Groceries,Bread,12669.04,1514.66
+364,1/18/2024,Illinois,Chicago,Sports Equipment,Dumbbells,5163.32,-354.25
+365,5/23/2024,Florida,Miami,Home Decor,Curtains,5574.72,-753.73
+366,2/26/2019,New York,New York City,Furniture,Sofa,13021.39,5207.76
+367,4/26/2022,Florida,Miami,Clothing,Jacket,993.83,147.84
+368,11/24/2021,Nevada,Las Vegas,Sports Equipment,Tennis Racket,10051.19,-1629.39
+369,9/30/2025,California,San Francisco,Sports Equipment,Yoga Mat,12601.89,-586.07
+370,12/29/2019,New York,Rochester,Office Supplies,Stapler,5109.96,1199.64
+371,2/12/2020,New York,Buffalo,Electronics,Headphones,6133.91,2429.4
+372,3/15/2024,California,San Diego,Groceries,Eggs,916.58,163.39
+373,7/12/2021,Texas,Dallas,Clothing,Sweater,8816.98,-620.82
+374,5/31/2018,New York,Buffalo,Clothing,Jacket,10051.61,1333.47
+375,6/23/2022,Nevada,Reno,Home Decor,Wall Art,6950.94,-1089.1
+376,9/15/2023,Nevada,Las Vegas,Clothing,Sweater,12193.91,-1222.31
+377,5/12/2021,Illinois,Naperville,Clothing,Jacket,4200.37,1644.48
+378,7/20/2023,New York,Buffalo,Technology,Laptop,10550.08,3115.16
+379,1/10/2025,New York,Buffalo,Home Decor,Curtains,9500.42,413.99
+380,2/6/2024,New York,New York City,Home Decor,Carpet,806.65,37.72
+381,9/12/2020,Texas,Austin,Technology,Phone,9081.21,-1847.32
+382,6/25/2022,Illinois,Chicago,Home Decor,Clock,14829.08,-1430.41
+383,8/19/2024,Texas,Austin,Sports Equipment,Tennis Racket,1843.7,-177.68
+384,2/20/2018,Florida,Miami,Home Decor,Lamp,5938.09,11.05
+385,4/9/2023,New York,Buffalo,Clothing,Shoes,8803.5,2294.18
+386,12/18/2023,New York,New York City,Sports Equipment,Cricket Bat,12461.5,-735.57
+387,12/3/2025,Florida,Orlando,Furniture,Cabinet,3167.61,597.58
+388,4/13/2023,Nevada,Reno,Clothing,Shoes,10479.92,569.68
+389,3/8/2019,Illinois,Springfield,Furniture,Desk,7812.92,-214.34
+390,12/2/2020,New York,Rochester,Technology,Printer,2834.05,-648.13
+391,2/16/2020,New York,New York City,Sports Equipment,Cricket Bat,1590.33,-26.59
+392,3/16/2023,Illinois,Chicago,Clothing,T-Shirt,12482.56,-1269.77
+393,5/10/2020,Florida,Miami,Clothing,Sweater,5689.74,2229.18
+394,6/24/2021,Washington,Spokane,Technology,Printer,10937.72,-1567.3
+395,3/23/2021,Texas,Houston,Electronics,Smartwatch,1755.48,678.75
+396,12/16/2022,California,San Francisco,Technology,Printer,8507.07,-1111.14
+397,7/6/2024,Nevada,Reno,Electronics,Camera,4397.03,1378.69
+398,4/20/2019,Texas,Dallas,Sports Equipment,Tennis Racket,7370.37,-729.28
+399,6/27/2021,New York,Buffalo,Electronics,TV,3076.43,-26.29
+400,2/26/2022,Florida,Miami,Home Decor,Lamp,14846,4034.5
+401,12/4/2022,California,San Diego,Office Supplies,Paper,6754.7,-1469.86
+402,5/11/2025,Texas,Houston,Furniture,Chair,7945.17,149.03
+403,1/24/2023,Nevada,Las Vegas,Office Supplies,Notebook,8470.47,1135.4
+404,6/22/2023,California,San Diego,Electronics,TV,14948.75,2313.46
+405,1/30/2023,Texas,Austin,Clothing,Jeans,6829.86,-404.4
+406,3/1/2021,Washington,Spokane,Electronics,Headphones,12001.88,-382.31
+407,3/19/2021,California,Los Angeles,Sports Equipment,Dumbbells,502.3,-110.67
+408,11/25/2024,Nevada,Reno,Groceries,Vegetables,2926.18,610.89
+409,2/26/2023,Texas,Austin,Clothing,Shoes,10919.48,468.24
+410,4/13/2021,New York,Buffalo,Home Decor,Clock,2747.5,-110.14
+411,9/12/2019,Nevada,Las Vegas,Home Decor,Curtains,9379.53,1886.8
+412,2/8/2025,Illinois,Naperville,Home Decor,Wall Art,3879.25,441.68
+413,6/2/2018,Texas,Dallas,Electronics,Headphones,13473.18,954.55
+414,7/28/2020,New York,Buffalo,Home Decor,Clock,1318.18,464.96
+415,10/23/2020,New York,New York City,Electronics,Camera,6639.37,-199.11
+416,11/10/2024,California,San Francisco,Clothing,T-Shirt,6921.33,1777.11
+417,4/12/2018,Nevada,Las Vegas,Office Supplies,Stapler,830.28,-85.2
+418,11/1/2021,Washington,Seattle,Electronics,Speaker,9946.35,1022.97
+419,2/17/2024,Nevada,Reno,Furniture,Table,14333.13,5621.47
+420,3/28/2020,Texas,Houston,Furniture,Cabinet,4367.58,305.81
+421,3/27/2025,New York,Buffalo,Electronics,Headphones,10816.02,-1568.34
+422,8/28/2020,Washington,Seattle,Groceries,Milk,5034.5,1882.92
+423,11/7/2023,Nevada,Las Vegas,Home Decor,Lamp,14651.33,-1062.24
+424,4/19/2018,Texas,Austin,Sports Equipment,Yoga Mat,11841.14,-1009.81
+425,10/27/2023,New York,New York City,Furniture,Chair,10654.97,2441.93
+426,12/15/2022,New York,Buffalo,Sports Equipment,Dumbbells,4305.26,-134.89
+427,7/3/2022,Illinois,Springfield,Home Decor,Carpet,1210.34,382.01
+428,9/4/2025,Texas,Houston,Groceries,Rice,9016.12,-1615.69
+429,4/11/2019,Illinois,Naperville,Electronics,Speaker,8355.3,-2022.78
+430,11/28/2023,Nevada,Las Vegas,Home Decor,Lamp,9577.53,402.86
+431,8/27/2020,Florida,Tampa,Technology,Monitor,856.86,-166.96
+432,2/26/2025,Washington,Seattle,Sports Equipment,Football,9457.64,-2163.48
+433,9/15/2025,Illinois,Springfield,Furniture,Table,2585.72,694.79
+434,6/25/2023,Florida,Miami,Furniture,Sofa,12959.4,-2166.78
+435,8/27/2022,New York,Buffalo,Office Supplies,Notebook,14638.45,-2578.67
+436,12/28/2024,California,Los Angeles,Clothing,T-Shirt,7219.37,2716.8
+437,3/15/2021,Nevada,Reno,Technology,Tablet,9601.95,2603.69
+438,3/8/2023,Washington,Tacoma,Technology,Laptop,8254.07,-577.56
+439,8/23/2025,New York,Buffalo,Home Decor,Carpet,12123.29,-1016.73
+440,12/25/2022,Washington,Seattle,Technology,Phone,12216.76,-2308.58
+441,2/3/2023,Nevada,Las Vegas,Office Supplies,Pen,13129.96,-2025.41
+442,9/21/2024,New York,Buffalo,Groceries,Bread,1795.63,262.83
+443,1/15/2024,New York,Buffalo,Sports Equipment,Cricket Bat,13979.14,-518.46
+444,7/30/2023,Florida,Orlando,Office Supplies,Paper,3470.53,982.99
+445,7/20/2024,Washington,Spokane,Technology,Phone,393.19,-32.88
+446,4/24/2021,Nevada,Las Vegas,Sports Equipment,Football,7999.14,2366.19
+447,5/23/2025,Illinois,Chicago,Office Supplies,Notebook,9208,2446.73
+448,10/28/2020,Florida,Orlando,Furniture,Table,13829.72,5420.03
+449,11/7/2021,Nevada,Las Vegas,Groceries,Bread,5518.46,1355.47
+450,7/1/2023,Illinois,Naperville,Clothing,Jacket,12379.18,3498.63
+451,3/1/2024,Florida,Tampa,Sports Equipment,Cricket Bat,10403.79,-1223.98
+452,11/5/2019,Nevada,Reno,Office Supplies,Stapler,13995.04,-2387.56
+453,2/22/2019,Texas,Austin,Sports Equipment,Dumbbells,9916.95,3722.94
+454,11/24/2021,Nevada,Las Vegas,Technology,Laptop,11627.76,-544.23
+455,4/24/2022,Washington,Seattle,Technology,Printer,1158.6,14.31
+456,4/13/2020,Florida,Miami,Electronics,Camera,9673.48,1298.22
+457,5/23/2025,Texas,Dallas,Furniture,Cabinet,11048.64,-2728.32
+458,9/5/2018,New York,Rochester,Clothing,Jeans,1076.41,25.9
+459,8/28/2019,New York,Rochester,Clothing,Shoes,8559.77,838.71
+460,2/3/2018,Nevada,Las Vegas,Home Decor,Lamp,5164.49,685.26
+461,1/28/2025,New York,Rochester,Clothing,Jeans,13410.63,1945.83
+462,2/2/2024,California,San Francisco,Groceries,Bread,7031.83,2278.7
+463,5/29/2025,Washington,Seattle,Technology,Phone,5971.26,-1484.79
+464,2/15/2025,California,San Diego,Furniture,Chair,6809.55,-1048.55
+465,1/26/2023,Florida,Miami,Clothing,T-Shirt,4376.96,1125.74
+466,10/21/2018,California,San Diego,Clothing,Jeans,12130,1246.46
+467,6/26/2023,Texas,Dallas,Groceries,Vegetables,4445.04,-590.24
+468,9/9/2018,Florida,Tampa,Groceries,Milk,12894.93,2760.88
+469,11/4/2020,Washington,Tacoma,Home Decor,Carpet,13750.5,2896.76
+470,1/30/2024,California,San Diego,Technology,Monitor,4308.45,-368.28
+471,7/17/2024,Nevada,Reno,Home Decor,Curtains,7056.53,-1595.6
+472,10/5/2023,Texas,Houston,Groceries,Milk,7806.23,-1154.01
+473,9/5/2018,Nevada,Las Vegas,Clothing,Shoes,13988.91,4633.47
+474,12/16/2023,Illinois,Chicago,Home Decor,Wall Art,1405.29,-180.85
+475,4/20/2023,Texas,Austin,Groceries,Bread,2243.84,896.06
+476,4/29/2018,Washington,Tacoma,Furniture,Chair,13367.61,-1727.08
+477,8/2/2018,Illinois,Chicago,Furniture,Sofa,3039.72,322.68
+478,8/19/2019,Florida,Tampa,Electronics,Smartwatch,6069.35,-696.78
+479,11/6/2022,Texas,Austin,Groceries,Rice,4211.61,1128
+480,10/23/2018,New York,New York City,Furniture,Desk,11440.81,928.79
+481,1/13/2021,Florida,Miami,Sports Equipment,Tennis Racket,5917.36,-1159.11
+482,6/25/2019,Illinois,Naperville,Technology,Phone,14509.39,1845
+483,5/6/2019,New York,New York City,Clothing,Sweater,11325.31,-650.96
+484,8/12/2019,New York,Rochester,Clothing,T-Shirt,6528.49,-355.27
+485,4/16/2020,Texas,Dallas,Technology,Tablet,7832.44,344.73
+486,5/31/2022,Texas,Dallas,Furniture,Sofa,9571.84,1467.38
+487,1/11/2022,Nevada,Reno,Office Supplies,Paper,2283.04,709.83
+488,7/14/2021,Illinois,Naperville,Sports Equipment,Tennis Racket,5680.54,-563.39
+489,11/7/2020,Texas,Austin,Groceries,Rice,11846.09,1560.22
+490,12/2/2022,Illinois,Chicago,Office Supplies,Notebook,2379.74,-178.53
+491,12/8/2020,Florida,Orlando,Furniture,Table,11103.02,-2103.65
+492,8/22/2019,Texas,Houston,Home Decor,Carpet,3812.87,970.48
+493,12/15/2019,Washington,Tacoma,Office Supplies,Binder,3499.3,-854.7
+494,12/3/2024,Washington,Seattle,Groceries,Bread,3679.62,-654.4
+495,10/29/2024,New York,Rochester,Technology,Tablet,7096.57,2103.01
+496,11/8/2025,Washington,Seattle,Groceries,Vegetables,10550.69,3780.48
+497,9/3/2019,Nevada,Las Vegas,Clothing,Jacket,3493.04,465.71
+498,7/1/2021,Florida,Miami,Electronics,TV,10939.02,2020.54
+499,6/27/2020,Washington,Tacoma,Home Decor,Curtains,13271.83,164.5
+500,4/10/2018,New York,Buffalo,Clothing,Jeans,2102.18,86.5
+501,8/29/2020,Nevada,Las Vegas,Technology,Laptop,14778.99,-1175.21
+502,10/30/2019,Nevada,Reno,Electronics,Speaker,12883.31,-2516.03
+503,8/17/2023,Texas,Austin,Home Decor,Curtains,8804.41,1443.88
+504,12/9/2020,Washington,Tacoma,Groceries,Vegetables,10695.93,3562.04
+505,10/11/2025,New York,Buffalo,Home Decor,Curtains,8316.58,1157.14
+506,10/5/2020,Florida,Tampa,Home Decor,Lamp,2687.73,516.2
+507,2/10/2021,Illinois,Naperville,Groceries,Vegetables,11257.68,-1741.36
+508,1/29/2022,Nevada,Reno,Home Decor,Clock,5814.46,1137.77
+509,11/11/2020,Illinois,Springfield,Groceries,Rice,12767.77,264.12
+510,1/14/2022,Nevada,Las Vegas,Home Decor,Lamp,5310.35,2004.19
+511,3/25/2018,Florida,Orlando,Sports Equipment,Dumbbells,5217.56,711.26
+512,6/19/2024,Washington,Seattle,Groceries,Milk,14896.23,386.26
+513,7/12/2023,Texas,Dallas,Office Supplies,Stapler,11483.31,671.49
+514,6/19/2024,Illinois,Naperville,Office Supplies,Stapler,3263.65,-194.09
+515,6/9/2018,Florida,Tampa,Sports Equipment,Dumbbells,8194.64,-807.23
+516,12/9/2022,New York,New York City,Clothing,Jacket,3803.51,1062.21
+517,4/1/2024,California,San Diego,Clothing,Shoes,6536.99,-687.98
+518,8/6/2022,Illinois,Springfield,Groceries,Bread,14381.22,5655.43
+519,4/18/2022,Illinois,Naperville,Home Decor,Wall Art,11779.09,2139.14
+520,8/4/2018,California,San Diego,Electronics,Smartwatch,3191.47,447.21
+521,6/15/2018,New York,New York City,Office Supplies,Binder,4183.39,373.14
+522,2/27/2021,New York,New York City,Home Decor,Curtains,2320.27,600.07
+523,11/5/2024,New York,New York City,Office Supplies,Paper,793.83,-13.15
+524,11/2/2024,Washington,Spokane,Home Decor,Clock,6703.6,1286.65
+525,10/19/2022,California,San Francisco,Home Decor,Clock,7853.97,-8.97
+526,10/29/2025,Nevada,Las Vegas,Technology,Laptop,12417.75,-2477.94
+527,8/27/2023,Texas,Houston,Electronics,Speaker,1153.74,-36.08
+528,7/1/2018,Florida,Miami,Home Decor,Clock,1498.34,-251.47
+529,6/10/2024,Texas,Austin,Electronics,Smartwatch,13397.06,1603.56
+530,2/22/2024,New York,Rochester,Groceries,Rice,2118.47,212.79
+531,3/26/2019,Texas,Houston,Home Decor,Curtains,7772.3,-696.81
+532,8/25/2025,Nevada,Reno,Clothing,Sweater,4946.96,-364.65
+533,9/4/2025,California,San Francisco,Electronics,Headphones,11281.6,308.47
+534,1/31/2020,California,San Francisco,Home Decor,Lamp,3740.84,-539.82
+535,6/21/2023,Nevada,Reno,Electronics,Speaker,568.84,-23.31
+536,8/17/2021,Washington,Seattle,Technology,Tablet,12409.09,-1953.4
+537,6/24/2020,California,Los Angeles,Office Supplies,Notebook,13321.93,-845.76
+538,11/24/2019,Illinois,Naperville,Home Decor,Curtains,9531.44,1001.86
+539,6/2/2021,California,San Diego,Home Decor,Carpet,7775.78,2932.26
+540,11/14/2025,New York,Rochester,Sports Equipment,Cricket Bat,10509.57,2421.75
+541,11/8/2024,California,Los Angeles,Groceries,Milk,880.48,-182.14
+542,10/6/2025,California,San Diego,Electronics,Camera,2516.52,-622.9
+543,9/3/2024,California,Los Angeles,Groceries,Rice,5065.17,669.88
+544,3/14/2025,Texas,Dallas,Office Supplies,Stapler,9182.71,-1420.82
+545,11/18/2025,Florida,Tampa,Clothing,Shoes,11814.17,2177.22
+546,10/2/2018,California,San Diego,Technology,Tablet,8102.97,-826.09
+547,3/25/2025,Florida,Orlando,Electronics,TV,6743.23,1016.91
+548,8/9/2022,Texas,Austin,Furniture,Sofa,6621.47,575.49
+549,8/9/2025,Washington,Seattle,Clothing,T-Shirt,13573.21,2687.4
+550,6/17/2023,Illinois,Springfield,Clothing,Jacket,8635.77,3241.86
+551,7/28/2025,Texas,Houston,Home Decor,Wall Art,6929.01,1558.7
+552,6/15/2024,Nevada,Reno,Electronics,Headphones,272.87,89.56
+553,7/28/2019,Washington,Seattle,Office Supplies,Notebook,8200.69,2822.77
+554,4/3/2022,New York,New York City,Office Supplies,Binder,8345.49,-1463.12
+555,3/25/2023,Florida,Orlando,Electronics,Camera,10801.69,-1482.9
+556,5/9/2025,Florida,Miami,Electronics,Speaker,9745.19,46.83
+557,6/22/2018,Florida,Tampa,Furniture,Cabinet,10576.84,2525.65
+558,6/17/2023,Florida,Miami,Sports Equipment,Tennis Racket,12551.04,3063.18
+559,3/17/2020,Washington,Spokane,Sports Equipment,Cricket Bat,725.81,-122.55
+560,12/7/2025,Nevada,Las Vegas,Sports Equipment,Football,6998,1582.88
+561,4/12/2021,Illinois,Springfield,Technology,Phone,6503.47,1091.89
+562,1/8/2018,Texas,Austin,Sports Equipment,Yoga Mat,4302.62,1218.22
+563,4/6/2023,New York,Buffalo,Groceries,Milk,12333.49,4600.67
+564,7/15/2021,Nevada,Las Vegas,Groceries,Milk,6237.7,-896.86
+565,9/18/2023,Florida,Miami,Clothing,Jacket,1023.46,172.85
+566,2/5/2019,Nevada,Reno,Sports Equipment,Dumbbells,7502.24,742.14
+567,6/26/2019,Nevada,Reno,Clothing,Sweater,14108.42,-2440.2
+568,4/29/2024,Florida,Miami,Clothing,Jacket,1945.68,-81.95
+569,4/2/2020,California,Los Angeles,Electronics,Headphones,5290.88,-830.71
+570,5/26/2018,Washington,Spokane,Technology,Laptop,12527.13,1005.34
+571,5/11/2025,Washington,Seattle,Electronics,Smartwatch,7312.16,462.78
+572,6/26/2022,California,Los Angeles,Groceries,Bread,3770.45,1375.72
+573,3/5/2021,Nevada,Reno,Clothing,Shoes,2774.63,-630.67
+574,3/5/2018,California,San Diego,Home Decor,Lamp,8647.57,435.67
+575,6/20/2023,Texas,Dallas,Electronics,Headphones,11053.64,-1931.19
+576,8/6/2018,Washington,Spokane,Clothing,Sweater,11221.03,3296.62
+577,12/19/2021,New York,Buffalo,Office Supplies,Paper,12244.63,1100.19
+578,11/24/2021,Texas,Dallas,Office Supplies,Notebook,3800.97,494.86
+579,7/22/2023,California,San Francisco,Technology,Printer,10781.68,3363.46
+580,8/22/2020,New York,Rochester,Home Decor,Lamp,7281.77,-1674.3
+581,12/5/2019,Florida,Orlando,Office Supplies,Binder,5219.61,308.79
+582,2/23/2022,New York,Rochester,Sports Equipment,Tennis Racket,3103.67,-516.67
+583,1/6/2019,California,San Francisco,Groceries,Rice,9508.94,253.5
+584,12/24/2021,California,Los Angeles,Office Supplies,Notebook,7470.9,-1635.7
+585,11/27/2025,California,San Francisco,Groceries,Eggs,14907.16,2841.86
+586,4/3/2024,California,San Francisco,Technology,Laptop,12373.98,3906.82
+587,3/16/2020,Illinois,Springfield,Groceries,Milk,10416.09,2842.51
+588,8/4/2023,Washington,Spokane,Electronics,Smartwatch,1674.1,237.23
+589,11/23/2023,California,Los Angeles,Sports Equipment,Football,5038.33,-429.24
+590,1/13/2018,New York,Rochester,Furniture,Sofa,3517.31,1298.61
+591,9/20/2024,Nevada,Las Vegas,Clothing,Jacket,14975.01,2565.98
+592,8/9/2025,Texas,Houston,Technology,Printer,9251.23,-1181.49
+593,12/14/2019,Nevada,Las Vegas,Electronics,Smartwatch,11620.6,-1598.11
+594,2/5/2023,Washington,Spokane,Groceries,Rice,12698.77,-1921.89
+595,5/2/2023,New York,Rochester,Technology,Printer,12777.49,-2007.04
+596,8/12/2023,Washington,Seattle,Home Decor,Curtains,13158.36,-2438.71
+597,1/1/2018,Florida,Tampa,Sports Equipment,Dumbbells,11729.45,2223.49
+598,1/26/2019,Florida,Miami,Office Supplies,Notebook,444.86,24.28
+599,8/31/2023,Texas,Dallas,Furniture,Sofa,13324.57,4264.71
+600,4/30/2025,New York,Buffalo,Electronics,TV,13616.2,20.63
+601,4/6/2018,Texas,Austin,Home Decor,Curtains,4956.24,573.5
+602,11/23/2023,Florida,Miami,Clothing,Sweater,9547.47,-1687.33
+603,11/7/2020,Illinois,Chicago,Clothing,T-Shirt,14947.91,-1300.42
+604,1/2/2020,New York,Buffalo,Clothing,Sweater,6135.38,989.93
+605,8/24/2020,Illinois,Chicago,Home Decor,Curtains,12608.47,-1422.36
+606,3/12/2025,Nevada,Reno,Technology,Phone,12449.53,2236.16
+607,8/27/2025,Nevada,Reno,Home Decor,Wall Art,2957.16,-249.52
+608,11/24/2019,Nevada,Reno,Sports Equipment,Tennis Racket,8078.22,-1967.12
+609,12/21/2018,New York,New York City,Furniture,Chair,12603.32,4209.98
+610,11/30/2022,New York,New York City,Home Decor,Clock,11061.22,1958.37
+611,1/31/2020,Florida,Orlando,Sports Equipment,Football,5965.55,106.56
+612,9/29/2018,California,Los Angeles,Office Supplies,Binder,3550.97,1402.34
+613,11/8/2018,Florida,Miami,Sports Equipment,Dumbbells,12156.48,593.96
+614,10/28/2025,Nevada,Reno,Electronics,Speaker,5374.85,268.44
+615,4/2/2024,Washington,Spokane,Groceries,Eggs,3304.4,-705.68
+616,2/8/2022,New York,New York City,Technology,Laptop,9358.88,-343.84
+617,4/12/2020,Nevada,Las Vegas,Furniture,Sofa,2574.86,94.95
+618,3/30/2024,Washington,Spokane,Sports Equipment,Tennis Racket,8566.05,2482.93
+619,9/19/2019,Washington,Spokane,Clothing,Jacket,9037.65,-1058.59
+620,1/13/2019,New York,Buffalo,Sports Equipment,Football,1496.67,-332.91
+621,4/23/2025,Florida,Tampa,Office Supplies,Paper,241.32,-9.34
+622,5/11/2023,New York,New York City,Electronics,Speaker,9817.9,745.43
+623,10/14/2025,Florida,Tampa,Clothing,Jacket,6845.17,2471.29
+624,12/2/2020,Texas,Austin,Home Decor,Clock,8695.38,886.9
+625,11/10/2024,Nevada,Las Vegas,Furniture,Sofa,8803,-2082.4
+626,7/6/2019,Washington,Tacoma,Furniture,Table,7705.89,-1320.44
+627,11/28/2020,Illinois,Naperville,Electronics,TV,9537.05,-820.38
+628,1/7/2023,New York,Rochester,Electronics,Speaker,2246.03,-197.48
+629,4/28/2024,Florida,Miami,Groceries,Vegetables,6669.31,-380.16
+630,6/6/2019,New York,Rochester,Sports Equipment,Football,4526.25,-126.67
+631,5/14/2019,California,San Diego,Technology,Printer,11691.07,2016.73
+632,7/19/2018,Florida,Miami,Home Decor,Clock,4480.96,1522.07
+633,5/5/2025,Illinois,Chicago,Electronics,Headphones,9758.15,464.4
+634,9/10/2022,Florida,Miami,Clothing,Jacket,1549.8,-157.76
+635,1/11/2023,Texas,Houston,Technology,Tablet,1460.92,395.96
+636,5/31/2023,Florida,Tampa,Technology,Monitor,8550.69,1624.52
+637,10/28/2018,Florida,Miami,Groceries,Bread,2500.01,-2.47
+638,5/12/2020,Florida,Orlando,Technology,Printer,14542.25,1593.86
+639,2/14/2021,Nevada,Reno,Furniture,Table,6099.78,1371.55
+640,9/6/2024,New York,Buffalo,Groceries,Milk,10089.57,2353.41
+641,7/16/2019,Florida,Miami,Home Decor,Lamp,10956.48,-1317
+642,12/9/2025,Florida,Miami,Electronics,Smartwatch,13360.35,-1685.22
+643,5/31/2022,Florida,Orlando,Home Decor,Lamp,13315.37,-354.71
+644,2/16/2025,California,San Francisco,Sports Equipment,Yoga Mat,5492.6,2046.38
+645,1/14/2019,Nevada,Reno,Furniture,Sofa,2550.83,852.7
+646,10/20/2020,New York,Buffalo,Clothing,Sweater,4330.77,719.16
+647,3/30/2025,Washington,Spokane,Home Decor,Carpet,6280.89,887.31
+648,5/18/2022,Illinois,Chicago,Groceries,Milk,3233.6,896.22
+649,10/25/2021,California,Los Angeles,Office Supplies,Stapler,13503.8,2079.61
+650,1/25/2023,California,San Diego,Technology,Printer,8194.96,-603.07
+651,6/17/2021,Illinois,Springfield,Technology,Phone,6421.17,-1142.55
+652,12/31/2020,Florida,Tampa,Electronics,Smartwatch,3455.42,1305.6
+653,2/24/2021,Illinois,Naperville,Electronics,Speaker,6053.56,1692.48
+654,12/17/2025,Washington,Seattle,Home Decor,Clock,10246.8,-2107.13
+655,11/3/2018,California,San Francisco,Groceries,Vegetables,10151.22,1376.99
+656,10/5/2022,New York,Buffalo,Office Supplies,Binder,11409.38,3101.56
+657,7/27/2020,Texas,Houston,Office Supplies,Pen,461.3,99.26
+658,6/5/2020,Illinois,Springfield,Furniture,Cabinet,11324.27,2271.63
+659,5/31/2023,Washington,Spokane,Clothing,T-Shirt,9002.66,-1852.22
+660,1/31/2025,Florida,Orlando,Sports Equipment,Cricket Bat,4083.95,-338.53
+661,10/27/2023,Illinois,Springfield,Office Supplies,Stapler,12824.26,2060.2
+662,3/11/2022,California,San Francisco,Home Decor,Clock,3000.2,326.57
+663,7/7/2019,California,San Francisco,Furniture,Sofa,9594.78,-1772.18
+664,7/12/2019,California,San Diego,Furniture,Table,12914.23,2103.55
+665,5/22/2019,California,Los Angeles,Groceries,Vegetables,671.78,39.03
+666,7/3/2021,Florida,Tampa,Technology,Monitor,2137.94,-474.26
+667,1/11/2020,Washington,Seattle,Electronics,Camera,10957.18,-939.5
+668,6/19/2023,Texas,Houston,Office Supplies,Binder,10279.25,599.38
+669,11/28/2019,New York,Rochester,Sports Equipment,Tennis Racket,9742.82,608.88
+670,6/7/2025,Texas,Dallas,Furniture,Sofa,7572.97,701.11
+671,4/13/2019,California,San Diego,Home Decor,Curtains,11557.92,-1621.11
+672,9/28/2024,Florida,Tampa,Clothing,Jeans,5046.22,-1161.87
+673,3/30/2025,New York,New York City,Electronics,Camera,7819.84,1209.67
+674,7/3/2018,Texas,Houston,Sports Equipment,Football,1375.6,451.04
+675,5/19/2024,Washington,Spokane,Groceries,Eggs,4362.78,1699.38
+676,1/27/2024,Illinois,Springfield,Technology,Phone,5772.1,909.28
+677,6/20/2025,New York,New York City,Clothing,Sweater,14737.99,2265.81
+678,10/6/2018,Nevada,Las Vegas,Technology,Laptop,1285.69,95.22
+679,7/30/2025,Florida,Orlando,Technology,Tablet,9958.24,2803.15
+680,3/5/2020,Illinois,Chicago,Home Decor,Carpet,14163.84,448.36
+681,7/6/2025,Nevada,Las Vegas,Electronics,Camera,9135.64,2689.46
+682,10/23/2022,Florida,Miami,Clothing,Jeans,5464.8,647.12
+683,7/19/2019,California,San Diego,Groceries,Vegetables,9254.02,2723.21
+684,1/14/2019,Washington,Seattle,Technology,Phone,7452.08,653.66
+685,12/16/2018,Texas,Houston,Sports Equipment,Football,8144.67,3160.17
+686,7/12/2024,New York,Buffalo,Groceries,Milk,11486.72,2231.68
+687,10/9/2023,Nevada,Las Vegas,Sports Equipment,Cricket Bat,6191.12,2149.48
+688,5/31/2024,Florida,Tampa,Furniture,Desk,3008.32,-686.83
+689,5/20/2023,New York,New York City,Sports Equipment,Dumbbells,6875.26,908.97
+690,11/28/2018,Illinois,Chicago,Furniture,Cabinet,4760.54,1770.31
+691,2/22/2023,Florida,Miami,Office Supplies,Paper,10006.2,2156.02
+692,12/6/2022,Nevada,Reno,Home Decor,Curtains,2940.21,-564.07
+693,6/20/2019,New York,Rochester,Office Supplies,Stapler,6529.94,-1500.8
+694,7/26/2023,Illinois,Springfield,Groceries,Vegetables,14660.02,3614.63
+695,3/22/2019,Illinois,Springfield,Office Supplies,Paper,9118.69,-30.58
+696,6/25/2020,Nevada,Las Vegas,Sports Equipment,Cricket Bat,7200.41,-323.02
+697,7/15/2018,Nevada,Las Vegas,Furniture,Chair,2900.49,667.54
+698,2/28/2025,Florida,Orlando,Electronics,Speaker,13487.69,5305.97
+699,5/8/2024,Nevada,Las Vegas,Electronics,Camera,6924.06,595.67
+700,12/13/2021,New York,Rochester,Home Decor,Clock,3105.55,350.35
+701,4/22/2024,Illinois,Springfield,Sports Equipment,Dumbbells,8811.69,1763.07
+702,2/11/2023,Illinois,Chicago,Groceries,Rice,1018.5,88
+703,7/23/2020,Illinois,Springfield,Sports Equipment,Cricket Bat,12114.25,-555.71
+704,6/2/2020,New York,New York City,Electronics,Headphones,1175.4,128.7
+705,7/22/2021,Nevada,Reno,Home Decor,Carpet,7012.53,-437.49
+706,3/1/2025,Illinois,Naperville,Technology,Phone,5658.43,-171.02
+707,1/12/2021,California,San Francisco,Home Decor,Carpet,6726.07,1730.6
+708,8/16/2022,New York,Rochester,Groceries,Milk,12454.46,-2997.48
+709,12/3/2022,Nevada,Las Vegas,Groceries,Milk,13178.16,867.31
+710,6/14/2025,Texas,Dallas,Groceries,Vegetables,3944.5,-135.37
+711,1/20/2019,Washington,Spokane,Clothing,T-Shirt,14509.98,1052.48
+712,9/2/2022,Washington,Tacoma,Clothing,Shoes,4048.31,-388.63
+713,4/7/2021,Washington,Tacoma,Clothing,Shoes,485.52,186.39
+714,3/26/2021,New York,Rochester,Office Supplies,Binder,11347.34,-1549.23
+715,8/19/2024,California,Los Angeles,Groceries,Vegetables,2037.23,-210.95
+716,12/27/2022,Illinois,Naperville,Office Supplies,Paper,12278.17,1455.52
+717,12/25/2021,New York,Buffalo,Technology,Monitor,14837.07,3031.92
+718,11/14/2023,Texas,Houston,Electronics,Speaker,1815.19,-180.05
+719,12/1/2023,Illinois,Naperville,Electronics,Camera,11187.36,2354.88
+720,6/8/2020,Nevada,Reno,Office Supplies,Notebook,9397.92,-454.08
+721,4/15/2022,Florida,Orlando,Office Supplies,Binder,3319.93,-660.78
+722,12/13/2025,Washington,Seattle,Home Decor,Carpet,12867.66,2690.81
+723,7/3/2021,Texas,Dallas,Technology,Phone,2854.18,13.99
+724,3/10/2023,Texas,Houston,Furniture,Table,2708.43,989.39
+725,8/28/2021,Washington,Seattle,Office Supplies,Binder,3104.31,-23.85
+726,11/7/2022,Florida,Orlando,Electronics,Camera,13837.89,-817.43
+727,5/31/2021,New York,New York City,Technology,Printer,6356.34,1704.57
+728,10/13/2019,New York,Rochester,Home Decor,Lamp,12306.16,4343.98
+729,1/19/2023,Texas,Dallas,Groceries,Bread,12523.38,1571.06
+730,1/22/2021,New York,New York City,Office Supplies,Binder,11367.49,4162.29
+731,8/24/2025,New York,Rochester,Technology,Laptop,2186.41,844.11
+732,11/29/2020,New York,Buffalo,Sports Equipment,Cricket Bat,11453.76,-1516.27
+733,3/2/2020,Washington,Seattle,Clothing,Jacket,3908.22,781.29
+734,6/2/2018,Texas,Houston,Electronics,TV,958.95,289.76
+735,9/15/2025,Illinois,Naperville,Clothing,Shoes,14885.4,-2331.36
+736,4/5/2025,Washington,Spokane,Home Decor,Wall Art,9569.02,-951.48
+737,4/23/2024,Nevada,Reno,Groceries,Vegetables,3329.27,-397.6
+738,12/24/2018,Nevada,Reno,Sports Equipment,Dumbbells,1037.43,302.73
+739,2/24/2025,Illinois,Naperville,Electronics,Camera,9601.04,995.26
+740,9/29/2019,Washington,Spokane,Electronics,Headphones,6752.25,555.93
+741,7/6/2021,New York,Rochester,Groceries,Vegetables,10840.99,-1787.53
+742,12/5/2024,Nevada,Las Vegas,Sports Equipment,Football,6425.67,-578.46
+743,10/6/2019,Nevada,Reno,Home Decor,Wall Art,5906.29,550.03
+744,3/19/2018,Washington,Seattle,Electronics,Headphones,6352.98,-56.4
+745,10/31/2019,Florida,Miami,Groceries,Eggs,14044.63,5531.16
+746,12/18/2019,California,Los Angeles,Electronics,Smartwatch,12974.17,-3004.14
+747,6/15/2021,Texas,Austin,Electronics,Camera,3540.44,17.28
+748,11/3/2023,Illinois,Naperville,Office Supplies,Pen,6923.86,-631.3
+749,3/11/2025,Nevada,Las Vegas,Electronics,Camera,5432.91,452.97
+750,12/26/2024,Nevada,Las Vegas,Electronics,Speaker,175.97,-6.13
+751,6/13/2025,Washington,Tacoma,Office Supplies,Stapler,4227.68,18.4
+752,1/29/2018,Nevada,Las Vegas,Clothing,Jacket,5969.54,-525.07
+753,11/1/2020,California,San Diego,Furniture,Desk,8198.71,-13.35
+754,1/26/2022,California,San Francisco,Clothing,T-Shirt,1426.81,546.91
+755,8/29/2025,Florida,Miami,Sports Equipment,Tennis Racket,3006.96,-441.82
+756,9/11/2023,Washington,Seattle,Furniture,Cabinet,667.34,-76.02
+757,5/27/2021,Washington,Seattle,Sports Equipment,Yoga Mat,8604.8,3061.53
+758,10/19/2024,Florida,Miami,Technology,Printer,4146.96,703.92
+759,10/20/2020,Florida,Orlando,Clothing,T-Shirt,6759.73,2098.38
+760,12/26/2022,Illinois,Naperville,Clothing,Shoes,12894.01,1033.69
+761,5/7/2024,New York,Buffalo,Electronics,Smartwatch,13164.28,2491.13
+762,9/25/2019,Illinois,Springfield,Electronics,TV,5277.74,1381.02
+763,8/6/2023,Florida,Tampa,Home Decor,Curtains,7894.87,768.61
+764,7/30/2020,California,San Diego,Groceries,Vegetables,14995.92,5450.42
+765,9/16/2025,Florida,Miami,Sports Equipment,Dumbbells,2207.29,791.5
+766,6/9/2021,California,San Diego,Technology,Tablet,6990.51,672.84
+767,4/7/2022,Florida,Tampa,Sports Equipment,Yoga Mat,4478.04,-679.06
+768,1/8/2023,Florida,Tampa,Home Decor,Lamp,7174.7,347.1
+769,2/20/2021,California,Los Angeles,Groceries,Rice,2717.08,167.68
+770,4/25/2019,California,San Francisco,Electronics,Headphones,4158.95,213.82
+771,8/6/2021,Texas,Austin,Technology,Printer,13766.52,2810.46
+772,6/16/2024,New York,Buffalo,Sports Equipment,Dumbbells,12053.18,1837.75
+773,6/12/2019,Florida,Tampa,Clothing,Shoes,12644.44,-1540.37
+774,1/17/2021,Florida,Orlando,Sports Equipment,Yoga Mat,13165.86,4522.84
+775,2/14/2022,Illinois,Springfield,Clothing,T-Shirt,5200.85,-1179.85
+776,9/16/2025,California,Los Angeles,Furniture,Sofa,13351.82,-2079.43
+777,1/6/2021,Florida,Orlando,Groceries,Rice,9275.24,-1592.89
+778,8/5/2024,Illinois,Springfield,Technology,Phone,427.31,-35.29
+779,12/22/2022,Illinois,Chicago,Furniture,Desk,8620.05,1871.86
+780,3/28/2024,Texas,Dallas,Groceries,Rice,6981.47,-1051.35
+781,3/24/2024,Florida,Orlando,Technology,Phone,13940.19,4693.49
+782,4/20/2018,Nevada,Las Vegas,Office Supplies,Binder,13821.24,-2800.51
+783,2/19/2023,Washington,Seattle,Home Decor,Curtains,1613.08,-279.98
+784,5/10/2023,Florida,Miami,Technology,Laptop,10467.04,2340.94
+785,12/30/2018,Nevada,Las Vegas,Technology,Monitor,8850.37,-155.58
+786,1/8/2018,California,San Francisco,Technology,Printer,2473.69,-26.13
+787,5/6/2019,Nevada,Las Vegas,Groceries,Milk,1583.92,72.56
+788,9/19/2024,Nevada,Las Vegas,Clothing,Shoes,879.62,168.58
+789,2/13/2023,Illinois,Chicago,Home Decor,Curtains,12694.18,5019.65
+790,9/6/2018,Texas,Austin,Office Supplies,Binder,919.72,259.79
+791,6/17/2021,Nevada,Reno,Electronics,TV,12596.7,2636.8
+792,6/4/2018,New York,Buffalo,Groceries,Milk,3934.84,-152.64
+793,2/3/2020,California,San Francisco,Groceries,Milk,6236.91,1585.47
+794,12/24/2020,Florida,Tampa,Furniture,Table,14351.37,1113.37
+795,10/29/2021,Nevada,Reno,Technology,Printer,14613.61,3641.55
+796,12/19/2019,California,San Diego,Technology,Monitor,12095.38,231.84
+797,1/29/2019,Illinois,Chicago,Sports Equipment,Football,2597.03,517.85
+798,5/11/2022,Florida,Tampa,Electronics,Headphones,11288.09,1740.09
+799,6/2/2019,Illinois,Springfield,Clothing,Sweater,2495.36,914.81
+800,1/22/2018,Florida,Miami,Clothing,Jeans,406.65,27.7
+801,3/1/2022,Nevada,Las Vegas,Home Decor,Carpet,8094.03,-200.45
+802,6/16/2018,New York,Rochester,Clothing,Sweater,2815,-500.46
+803,11/6/2021,California,Los Angeles,Sports Equipment,Yoga Mat,6257.45,1208.14
+804,1/8/2024,New York,New York City,Electronics,Smartwatch,4174.71,945.56
+805,11/3/2019,Washington,Tacoma,Office Supplies,Notebook,14011.05,3115.24
+806,1/12/2021,Florida,Tampa,Sports Equipment,Cricket Bat,12786.83,-514.42
+807,12/23/2023,Florida,Orlando,Technology,Laptop,7815.54,2909.45
+808,5/7/2020,Florida,Tampa,Office Supplies,Notebook,6805.85,278.92
+809,11/23/2019,New York,Buffalo,Office Supplies,Paper,7805.9,1644.09
+810,6/30/2018,Washington,Spokane,Office Supplies,Pen,1579.16,615.87
+811,12/30/2019,Texas,Dallas,Electronics,TV,13554.56,1873.42
+812,2/27/2019,Illinois,Chicago,Clothing,Sweater,11747.97,2417.63
+813,12/9/2019,Illinois,Naperville,Clothing,T-Shirt,11058.97,3581.25
+814,4/4/2024,Nevada,Reno,Electronics,Smartwatch,13926.25,1570.58
+815,6/29/2020,Nevada,Las Vegas,Office Supplies,Notebook,1899.8,499
+816,1/25/2025,California,Los Angeles,Technology,Printer,2931.12,302.42
+817,3/19/2021,Nevada,Las Vegas,Sports Equipment,Cricket Bat,4778.24,1905.03
+818,2/5/2022,New York,Rochester,Clothing,Shoes,11779.47,1786.99
+819,4/26/2024,Illinois,Naperville,Office Supplies,Paper,8711.47,1403.45
+820,12/8/2021,Florida,Tampa,Furniture,Desk,10720.32,-459.45
+821,3/7/2021,New York,Rochester,Groceries,Rice,2468.84,-611.05
+822,4/20/2020,Florida,Miami,Technology,Printer,11837.47,-2876.52
+823,12/17/2019,California,Los Angeles,Sports Equipment,Yoga Mat,531.65,210.46
+824,12/18/2023,Washington,Seattle,Home Decor,Carpet,7937,1083.99
+825,7/8/2023,New York,New York City,Furniture,Desk,6100.16,-906.6
+826,1/28/2021,Texas,Houston,Sports Equipment,Cricket Bat,12223.21,1341.95
+827,9/20/2019,New York,Buffalo,Groceries,Eggs,11104.18,-1129.34
+828,3/3/2020,Washington,Seattle,Technology,Monitor,8900.77,1026.5
+829,6/11/2018,California,Los Angeles,Home Decor,Lamp,8212.54,-334.68
+830,8/21/2023,Nevada,Reno,Technology,Laptop,3721.71,-477.74
+831,6/8/2023,Texas,Austin,Home Decor,Curtains,14850.99,-3674.08
+832,6/26/2024,New York,Buffalo,Clothing,Jacket,2999.06,114.85
+833,2/2/2024,Washington,Spokane,Clothing,Shoes,1629.2,-28.01
+834,10/8/2022,New York,New York City,Electronics,Smartwatch,900.87,172.91
+835,2/20/2018,Washington,Seattle,Furniture,Sofa,8754.59,1641.46
+836,3/18/2022,California,San Francisco,Home Decor,Carpet,665.86,107.48
+837,3/18/2025,Florida,Orlando,Sports Equipment,Dumbbells,9745.73,1375.84
+838,12/25/2024,Washington,Seattle,Technology,Monitor,3610.57,882.74
+839,2/21/2020,Illinois,Chicago,Office Supplies,Paper,7956.74,2822.96
+840,4/30/2025,Texas,Houston,Office Supplies,Notebook,7497.09,-1609.77
+841,4/27/2018,Illinois,Chicago,Home Decor,Carpet,14330.31,-1585.33
+842,10/19/2024,Nevada,Reno,Technology,Tablet,7392.37,1389.02
+843,9/11/2024,New York,Buffalo,Clothing,Shoes,10065.78,-1481.92
+844,2/19/2018,Texas,Houston,Furniture,Table,14881.84,-1605.43
+845,6/3/2023,Nevada,Las Vegas,Home Decor,Curtains,11305.44,1240.35
+846,3/5/2021,California,Los Angeles,Clothing,Sweater,3520.71,302.2
+847,5/26/2021,Texas,Dallas,Sports Equipment,Football,4550.47,993.33
+848,8/19/2018,New York,Buffalo,Technology,Tablet,12738.15,4432.63
+849,7/24/2019,Nevada,Reno,Furniture,Cabinet,9367.77,-1382.44
+850,11/8/2025,Illinois,Chicago,Electronics,Headphones,3968.96,702.41
+851,8/8/2018,Illinois,Springfield,Sports Equipment,Football,11050.09,628.07
+852,12/28/2025,Florida,Tampa,Furniture,Sofa,8732.48,1343.6
+853,5/13/2021,Washington,Tacoma,Technology,Laptop,9040.73,1868.62
+854,11/6/2019,Texas,Austin,Groceries,Vegetables,10992.4,1589.24
+855,2/2/2025,Texas,Dallas,Home Decor,Lamp,2593.91,507.63
+856,11/11/2019,Nevada,Las Vegas,Sports Equipment,Tennis Racket,7468.2,-1596.82
+857,8/15/2022,Washington,Spokane,Groceries,Eggs,11760.23,881.44
+858,3/19/2019,New York,Rochester,Technology,Phone,3233.91,511.95
+859,6/18/2020,Nevada,Reno,Furniture,Table,4596.36,-342.14
+860,11/17/2021,Texas,Austin,Technology,Printer,11977.85,1249.34
+861,8/21/2019,New York,Buffalo,Office Supplies,Binder,13057.98,-2403.9
+862,9/10/2020,Texas,Houston,Technology,Phone,13374.64,-2310.55
+863,5/15/2025,New York,Rochester,Electronics,TV,12812.09,-1748.02
+864,8/27/2023,New York,New York City,Electronics,Smartwatch,9487.98,3678.02
+865,6/2/2023,Texas,Dallas,Home Decor,Carpet,10267.91,-1157.73
+866,6/6/2018,Nevada,Reno,Groceries,Eggs,13995.94,3432.68
+867,12/28/2018,Illinois,Springfield,Groceries,Vegetables,3175.85,840.68
+868,2/1/2023,Texas,Dallas,Clothing,Jacket,12079.93,679.75
+869,6/8/2023,Florida,Tampa,Sports Equipment,Football,7182.78,747.56
+870,10/16/2020,New York,Buffalo,Home Decor,Lamp,14057.38,5564.81
+871,12/12/2022,California,Los Angeles,Technology,Tablet,2259.02,637.76
+872,5/10/2025,Texas,Dallas,Technology,Laptop,9883.62,-1582.16
+873,3/3/2020,Florida,Miami,Groceries,Rice,4740.23,1709.36
+874,3/11/2019,Texas,Houston,Technology,Phone,9280.83,2753.34
+875,12/18/2024,Nevada,Las Vegas,Sports Equipment,Dumbbells,10069.3,-1894.08
+876,12/31/2020,Nevada,Las Vegas,Groceries,Bread,13499.43,-2071.75
+877,6/4/2025,Texas,Dallas,Technology,Printer,13835.13,-217.87
+878,6/16/2024,Florida,Tampa,Clothing,Shoes,6600.26,2470.02
+879,11/25/2024,Illinois,Springfield,Office Supplies,Pen,8461.58,-406.72
+880,12/25/2018,Washington,Spokane,Clothing,T-Shirt,9436.12,78.33
+881,6/10/2018,Nevada,Reno,Office Supplies,Binder,9497.7,-442.91
+882,3/19/2018,New York,Buffalo,Home Decor,Curtains,8786.01,2896.22
+883,9/20/2020,Texas,Dallas,Technology,Tablet,4877.99,1450.99
+884,3/22/2018,Nevada,Reno,Groceries,Milk,8247.3,-1313.91
+885,8/29/2024,Florida,Orlando,Furniture,Sofa,6282.71,622.62
+886,7/17/2021,Illinois,Chicago,Sports Equipment,Tennis Racket,4710.53,-1011.38
+887,3/9/2020,New York,New York City,Electronics,TV,14195.73,-1477.89
+888,12/18/2021,New York,Rochester,Electronics,Smartwatch,1853.58,194.51
+889,8/3/2018,Texas,Austin,Office Supplies,Paper,3359.23,647
+890,11/13/2020,Illinois,Springfield,Sports Equipment,Cricket Bat,4187.71,1547.86
+891,5/8/2024,Illinois,Springfield,Office Supplies,Pen,4528.24,383.55
+892,10/5/2020,Illinois,Springfield,Furniture,Sofa,6465.87,-61.85
+893,3/4/2023,Florida,Orlando,Furniture,Sofa,8741.75,432.79
+894,8/23/2020,Texas,Houston,Office Supplies,Stapler,14431.36,1287.25
+895,1/8/2020,Illinois,Springfield,Sports Equipment,Cricket Bat,14350.78,4310.14
+896,1/16/2022,Illinois,Springfield,Furniture,Chair,6464.27,2367.69
+897,10/25/2024,New York,Rochester,Furniture,Cabinet,867.25,291.01
+898,4/4/2020,Illinois,Chicago,Clothing,Shoes,13818.71,4145.99
+899,8/20/2024,Texas,Houston,Sports Equipment,Yoga Mat,14011.38,2552.01
+900,6/21/2022,Washington,Seattle,Home Decor,Clock,12932.18,-3211.58
+901,10/31/2019,Florida,Orlando,Sports Equipment,Tennis Racket,3967.75,-588.1
+902,3/15/2020,Washington,Spokane,Office Supplies,Binder,5583.44,1413.35
+903,8/9/2018,Florida,Orlando,Furniture,Sofa,1880.82,-462.9
+904,6/9/2023,Texas,Austin,Technology,Tablet,4945.64,521.5
+905,2/21/2018,Nevada,Reno,Groceries,Vegetables,11270.69,3371.22
+906,7/15/2023,Washington,Tacoma,Sports Equipment,Tennis Racket,6860.37,2626.76
+907,9/5/2024,Nevada,Las Vegas,Technology,Printer,2756.38,-250.77
+908,10/13/2024,Florida,Miami,Groceries,Rice,13914.74,3926.18
+909,9/25/2022,California,Los Angeles,Sports Equipment,Football,13883.97,4576.38
+910,3/20/2018,New York,New York City,Sports Equipment,Tennis Racket,9073.8,-2189.57
+911,7/12/2022,Texas,Austin,Furniture,Table,8977.22,-161
+912,7/3/2024,New York,Rochester,Home Decor,Carpet,14277.27,4395.82
+913,2/21/2019,Illinois,Springfield,Furniture,Cabinet,1451.56,208.88
+914,5/15/2021,California,San Francisco,Office Supplies,Pen,1495.04,586.51
+915,12/31/2019,Illinois,Chicago,Sports Equipment,Dumbbells,3891.74,801.59
+916,2/10/2022,New York,Buffalo,Furniture,Desk,13298.62,-2641.38
+917,3/31/2020,New York,Rochester,Furniture,Chair,1341.74,390.23
+918,5/6/2018,California,San Francisco,Groceries,Eggs,7681.84,1537.29
+919,3/26/2023,Illinois,Chicago,Clothing,T-Shirt,10232.41,-1806.01
+920,4/27/2021,Illinois,Naperville,Groceries,Rice,9005.64,529.52
+921,7/12/2018,Texas,Austin,Technology,Printer,8021.69,-1669.46
+922,9/7/2022,Washington,Spokane,Furniture,Desk,13210.73,3017.55
+923,6/18/2019,New York,Buffalo,Furniture,Sofa,12984.62,661.33
+924,3/9/2022,Florida,Orlando,Clothing,Sweater,7864.94,2087.15
+925,12/27/2024,Nevada,Reno,Clothing,Jacket,5936.81,-1175.75
+926,6/13/2020,Washington,Spokane,Sports Equipment,Dumbbells,13809.2,4774.46
+927,3/14/2019,California,San Diego,Sports Equipment,Dumbbells,8158.64,1624.52
+928,4/23/2018,California,San Diego,Groceries,Bread,8165.9,-1987.37
+929,8/29/2022,Texas,Houston,Furniture,Chair,8208.94,1175.24
+930,7/1/2021,New York,Rochester,Home Decor,Carpet,1080.51,213.17
+931,11/1/2024,Illinois,Naperville,Technology,Phone,11076.77,2871.6
+932,8/18/2019,Nevada,Reno,Clothing,T-Shirt,5580.88,1718.7
+933,1/30/2018,New York,Rochester,Office Supplies,Notebook,3492.78,-248.38
+934,5/29/2020,Illinois,Naperville,Sports Equipment,Tennis Racket,12412.22,1066.84
+935,11/21/2024,New York,Buffalo,Clothing,Sweater,4711.24,-967.88
+936,5/16/2019,Nevada,Reno,Electronics,Smartwatch,9138.47,-1861.55
+937,12/12/2021,Washington,Spokane,Electronics,Smartwatch,878.57,102.1
+938,2/17/2024,Washington,Seattle,Electronics,Camera,254.85,-45.42
+939,7/16/2025,Texas,Houston,Furniture,Sofa,9174.94,1360.23
+940,6/9/2018,Florida,Tampa,Clothing,Shoes,1528.37,203.18
+941,10/17/2019,Washington,Spokane,Electronics,Headphones,8751.39,-287.09
+942,5/10/2023,Texas,Austin,Technology,Laptop,13061.82,2138.99
+943,2/5/2025,Texas,Austin,Office Supplies,Stapler,756.36,-71.47
+944,11/24/2019,California,San Francisco,Electronics,Camera,8669.84,-1203.19
+945,2/15/2021,Illinois,Springfield,Sports Equipment,Tennis Racket,10636.39,438.59
+946,5/24/2025,Texas,Austin,Technology,Tablet,6399.02,-1257.77
+947,2/29/2024,Illinois,Naperville,Sports Equipment,Tennis Racket,12042.89,-1741.41
+948,7/11/2020,New York,Rochester,Sports Equipment,Yoga Mat,2110.22,-52.63
+949,4/29/2021,Nevada,Las Vegas,Home Decor,Wall Art,259.88,-0.6
+950,5/10/2018,Illinois,Springfield,Groceries,Milk,11016.67,1760.54
+951,10/6/2020,California,Los Angeles,Groceries,Eggs,1848.73,-284.7
+952,7/31/2024,New York,New York City,Office Supplies,Paper,787.41,130.21
+953,7/23/2023,California,San Diego,Office Supplies,Binder,14962.2,-976.54
+954,5/25/2020,Nevada,Reno,Groceries,Bread,14633.9,1418.4
+955,1/24/2022,California,San Francisco,Groceries,Milk,2976.31,34.6
+956,2/10/2023,New York,Buffalo,Technology,Phone,7575.31,1804.02
+957,10/28/2023,Florida,Tampa,Clothing,Sweater,6104.64,-874.54
+958,7/5/2019,Florida,Tampa,Office Supplies,Notebook,2158.58,-458.46
+959,9/16/2020,Texas,Houston,Office Supplies,Notebook,9167.28,-555.74
+960,10/8/2020,New York,Buffalo,Furniture,Desk,10991.5,2817.19
+961,3/19/2018,New York,Buffalo,Technology,Printer,6579.34,19.87
+962,11/25/2023,Illinois,Chicago,Furniture,Chair,10694.63,-1696.69
+963,6/30/2022,New York,Buffalo,Furniture,Table,321.66,113.31
+964,8/6/2021,California,San Diego,Clothing,Shoes,13563.6,-1120.39
+965,3/13/2022,Florida,Orlando,Clothing,Sweater,6501.86,-1526.39
+966,3/24/2019,Illinois,Naperville,Clothing,Shoes,13195.57,-1074.39
+967,12/22/2024,California,Los Angeles,Furniture,Desk,11620.13,-2452.11
+968,12/9/2020,Illinois,Chicago,Clothing,Jacket,485.22,-15.21
+969,7/12/2025,New York,New York City,Sports Equipment,Football,8964.23,355.87
+970,7/8/2023,Texas,Austin,Home Decor,Clock,6021.06,1830.19
+971,2/28/2022,Washington,Spokane,Clothing,Jeans,3757.76,1323.08
+972,5/28/2019,Nevada,Reno,Furniture,Table,4179.52,-553.6
+973,9/26/2023,New York,Buffalo,Electronics,TV,992.25,216.3
+974,10/30/2019,Florida,Miami,Office Supplies,Notebook,3837.67,1236.35
+975,5/17/2023,Florida,Miami,Home Decor,Clock,7431.74,2287.36
+976,11/18/2022,Texas,Austin,Technology,Monitor,12358.45,-2576.28
+977,10/13/2022,California,San Diego,Sports Equipment,Dumbbells,12895.36,2581.54
+978,5/29/2021,Texas,Dallas,Office Supplies,Binder,3953.17,186.83
+979,8/23/2024,Florida,Tampa,Office Supplies,Notebook,1471.56,252.94
+980,11/21/2021,Washington,Seattle,Clothing,Jacket,1337.38,-216.44
+981,2/22/2019,California,San Diego,Technology,Monitor,12714.75,4183.32
+982,1/30/2024,Illinois,Springfield,Technology,Monitor,2667.37,-379.91
+983,4/7/2022,California,San Diego,Sports Equipment,Dumbbells,9763.26,-460.78
+984,5/12/2018,California,San Diego,Sports Equipment,Cricket Bat,4582.27,-645.37
+985,5/7/2023,New York,Buffalo,Groceries,Vegetables,659.46,207.86
+986,4/2/2023,Washington,Spokane,Technology,Phone,6342.21,1849.79
+987,6/11/2022,Nevada,Las Vegas,Sports Equipment,Yoga Mat,12433.67,4891.81
+988,4/29/2018,Illinois,Chicago,Office Supplies,Notebook,1894.62,452.06
+989,8/7/2023,California,San Diego,Technology,Tablet,7782.38,1168.26
+990,5/12/2020,Illinois,Chicago,Groceries,Vegetables,12962.14,22.51
+991,2/7/2025,Texas,Houston,Technology,Printer,12281.18,307.97
+992,4/18/2023,California,Los Angeles,Home Decor,Clock,7695.52,-1193.49
+993,7/30/2022,Florida,Tampa,Technology,Tablet,142.33,56.3
+994,7/20/2023,California,San Francisco,Sports Equipment,Football,14550.72,-2152.27
+995,7/19/2021,California,San Diego,Office Supplies,Stapler,9817.34,89.54
+996,12/31/2022,California,Los Angeles,Technology,Tablet,4485.73,-185.55
+997,5/31/2024,Florida,Orlando,Groceries,Milk,8091.11,1342.89
+998,5/28/2025,Florida,Tampa,Furniture,Desk,6400.15,-1546.28
+999,11/10/2019,Washington,Seattle,Electronics,TV,10531.24,700.69
+1000,3/31/2024,Washington,Seattle,Furniture,Sofa,9403.93,1233.36
