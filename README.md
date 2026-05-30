@@ -84,18 +84,6 @@ Allows users to analyze performance across different years.
 
 <img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/f07f3c53-ff64-49d2-83dd-2c483c0925e2" />
 
-## Repository Structure
-
-walmart-sales-analytics-dashboard/
-
-├── Walmart_Dashboard.pbix
-
-├── Walmart_Sales_Data.xlsx
-
-├── Dashboard_Screenshot.png
-
-└── README.md
-
 
 ##  Business Value
 
